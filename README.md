@@ -57,4 +57,8 @@ Amazon CloudWatch was used to:
 >> Low Cost Pay-as-you-go Model
 >> Real-time Monitoring with CloudWatch
 
+# 🌐 Live Application
 
+Frontend hosted using Amazon S3 Static Website Hosting:
+
+🔗 http://student-task-manager-123.s3-website-us-east-1.amazonaws.com
